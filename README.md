@@ -1,6 +1,6 @@
 # Taiko-Simulator
-![start]()
-
+![start](https://github.com/rex0988476/Taiko-Simulator/blob/main/README/start.png)    
+![game](https://github.com/rex0988476/Taiko-Simulator/blob/main/README/start.png)
 Rhythm game training.
 
 
